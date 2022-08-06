@@ -1,0 +1,1 @@
+epoch,accuracy,dice_coeff,loss,lr,mean_absolute_error,mean_io_u_20,my_haud_dist,my_iou_metric,precision_20,recall_20,val_accuracy,val_dice_coeff,val_loss,val_mean_absolute_error,val_mean_io_u_20,val_my_haud_dist,val_my_iou_metric,val_precision_20,val_recall_20
